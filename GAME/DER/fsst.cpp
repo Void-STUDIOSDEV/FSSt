@@ -1,6 +1,7 @@
 #include <iostream>
 #include <chrono>
 #include <thread>
+#include <cctype>
 using namespace std;
 //the required modules and variables
 
