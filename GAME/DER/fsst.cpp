@@ -11,7 +11,7 @@ void sleep(double seconds) {
 
 int main() {
 	cout << "FIRE: SHORT STORY 01\n";
-	cout << "My first CPP/C++ Short Story!";
+			cout << "My first CPP/C++ Short Story!\n";
 	cout << "I AM COMPLETELY NEW TO CPP / C++\n";
 	cout << "You walk through the forest... You see fire.... WHAT DO YOU DO?\n";
 
